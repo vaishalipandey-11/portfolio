@@ -301,22 +301,22 @@ nav ul li a:hover {
 }
 
 #project1 {
-  background-image: url(./Images/projects/Project1.png);
+  background-image: url(./Images/projects/passwordgen.png);
   right: 5%;
 }
 
 #project2 {
-  background-image: url(./Images/projects/Project2.png);
+  background-image: url(./Images/projects/dev.png);
   left: 5%;
 }
 
 #project3 {
-  background-image: url(./Images/projects/Project3.png);
+  background-image: url(./Images/projects/razorpayclone.png);
   right: 5%;
 }
 
 #project4 {
-  background-image: url(./Images/projects/Project4.png);
+  background-image: url(./Images/projects/weather.png);
   left: 5%;
 }
 
